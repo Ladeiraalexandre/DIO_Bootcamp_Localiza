@@ -2,6 +2,6 @@
 
 ## Repositório de projetos
 
-- Projeto : Aplicação de transferência bancárias com .NET
+- DIO.Bank : Aplicação de transferência bancárias com .NET  
 
   
