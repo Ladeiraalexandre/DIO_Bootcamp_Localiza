@@ -49,10 +49,10 @@ namespace DIO.Bank
 
         public override string ToString()
         {
-            return "Tipo Conta " + this.TipoConta + " | "
-                 + "Nome " + this.Nome + " | "
-                 + "Saldo " + this.Saldo + " | "
-                 + "Crédito " + this.Credito;
+            return "Tipo Conta: " + this.TipoConta + " | "
+                 + "Nome: " + this.Nome + " | "
+                 + "Saldo: " + this.Saldo + " | "
+                 + "Crédito: " + this.Credito;
         }                
 
     }
