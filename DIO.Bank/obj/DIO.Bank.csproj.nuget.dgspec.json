@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj": {}
+    "c:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj": {
+    "c:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\CursoLocaliza\\Bank\\DIO.Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
