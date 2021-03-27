@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vaquinha.Unit.Tests": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
